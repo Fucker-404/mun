@@ -30,11 +30,7 @@ CON=sol()
 #---------------------------------MAIN>MENU---------------------------------#
 import os
 import os
-import sys
-import time
-import requests
-import uuid
-os.system('git pull')
+impo
 
 def o():
     os.system('clear')
@@ -168,8 +164,7 @@ os.system('clear')
 logo="""
 \033[1;92m
 
-█▀▀ █░█ █▀▀ █▄▀ █▀▀ █▀█ ▄▄ █░█ █▀█ █░█
-█▀░ █▄█ █▄▄ █░█ ██▄ █▀▄ ░░ ▀▀█ █▄█ ▀▀█
+
 
 \033[1;91m\033[1;41m\033[1;97m              WELCOME TO FUCKER-404 TOOLS               \033[;0m\033[1;91m\033[1;92m
 
